@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch_case", "switch_case.csproj", "{76B7B255-13A3-4F4B-920D-748FAB8EA96E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76B7B255-13A3-4F4B-920D-748FAB8EA96E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B7B255-13A3-4F4B-920D-748FAB8EA96E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B7B255-13A3-4F4B-920D-748FAB8EA96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B7B255-13A3-4F4B-920D-748FAB8EA96E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21275AF4-F932-42D8-9004-B3C2A4E45E1D}
+	EndGlobalSection
+EndGlobal

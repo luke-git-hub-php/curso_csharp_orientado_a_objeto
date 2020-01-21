@@ -1,0 +1,10 @@
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\datetime\datetime\bin\Debug\netcoreapp3.1\datetime.exe
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\datetime\datetime\bin\Debug\netcoreapp3.1\datetime.deps.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\datetime\datetime\bin\Debug\netcoreapp3.1\datetime.runtimeconfig.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\datetime\datetime\bin\Debug\netcoreapp3.1\datetime.runtimeconfig.dev.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\datetime\datetime\bin\Debug\netcoreapp3.1\datetime.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\datetime\datetime\bin\Debug\netcoreapp3.1\datetime.pdb
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\datetime\datetime\obj\Debug\netcoreapp3.1\datetime.AssemblyInfoInputs.cache
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\datetime\datetime\obj\Debug\netcoreapp3.1\datetime.AssemblyInfo.cs
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\datetime\datetime\obj\Debug\netcoreapp3.1\datetime.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\datetime\datetime\obj\Debug\netcoreapp3.1\datetime.pdb

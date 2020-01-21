@@ -1,0 +1,11 @@
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_condicinal\estrutura_condicional\bin\Debug\netcoreapp3.1\estrutura_condicional.exe
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_condicinal\estrutura_condicional\bin\Debug\netcoreapp3.1\estrutura_condicional.deps.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_condicinal\estrutura_condicional\bin\Debug\netcoreapp3.1\estrutura_condicional.runtimeconfig.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_condicinal\estrutura_condicional\bin\Debug\netcoreapp3.1\estrutura_condicional.runtimeconfig.dev.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_condicinal\estrutura_condicional\bin\Debug\netcoreapp3.1\estrutura_condicional.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_condicinal\estrutura_condicional\bin\Debug\netcoreapp3.1\estrutura_condicional.pdb
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_condicinal\estrutura_condicional\obj\Debug\netcoreapp3.1\estrutura_condicional.csprojAssemblyReference.cache
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_condicinal\estrutura_condicional\obj\Debug\netcoreapp3.1\estrutura_condicional.AssemblyInfoInputs.cache
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_condicinal\estrutura_condicional\obj\Debug\netcoreapp3.1\estrutura_condicional.AssemblyInfo.cs
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_condicinal\estrutura_condicional\obj\Debug\netcoreapp3.1\estrutura_condicional.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_condicinal\estrutura_condicional\obj\Debug\netcoreapp3.1\estrutura_condicional.pdb

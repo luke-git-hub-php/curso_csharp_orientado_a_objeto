@@ -1,0 +1,11 @@
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\tipo_referencia_valor\Point\obj\Debug\netcoreapp3.1\Point.csprojAssemblyReference.cache
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\tipo_referencia_valor\Point\obj\Debug\netcoreapp3.1\Point.AssemblyInfoInputs.cache
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\tipo_referencia_valor\Point\obj\Debug\netcoreapp3.1\Point.AssemblyInfo.cs
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\tipo_referencia_valor\Point\bin\Debug\netcoreapp3.1\Point.exe
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\tipo_referencia_valor\Point\bin\Debug\netcoreapp3.1\Point.deps.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\tipo_referencia_valor\Point\bin\Debug\netcoreapp3.1\Point.runtimeconfig.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\tipo_referencia_valor\Point\bin\Debug\netcoreapp3.1\Point.runtimeconfig.dev.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\tipo_referencia_valor\Point\bin\Debug\netcoreapp3.1\Point.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\tipo_referencia_valor\Point\bin\Debug\netcoreapp3.1\Point.pdb
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\tipo_referencia_valor\Point\obj\Debug\netcoreapp3.1\Point.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\tipo_referencia_valor\Point\obj\Debug\netcoreapp3.1\Point.pdb

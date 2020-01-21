@@ -1,0 +1,22 @@
+C:\Users\Daniel\Desktop\Edna Nascimento_Curso C#\Sessão 5\Exercicio de Fixação\introducao_c_sharp\introducao_c_sharp\bin\Debug\netcoreapp2.1\introducao_c_sharp.deps.json
+C:\Users\Daniel\Desktop\Edna Nascimento_Curso C#\Sessão 5\Exercicio de Fixação\introducao_c_sharp\introducao_c_sharp\bin\Debug\netcoreapp2.1\introducao_c_sharp.runtimeconfig.json
+C:\Users\Daniel\Desktop\Edna Nascimento_Curso C#\Sessão 5\Exercicio de Fixação\introducao_c_sharp\introducao_c_sharp\bin\Debug\netcoreapp2.1\introducao_c_sharp.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\Edna Nascimento_Curso C#\Sessão 5\Exercicio de Fixação\introducao_c_sharp\introducao_c_sharp\bin\Debug\netcoreapp2.1\introducao_c_sharp.dll
+C:\Users\Daniel\Desktop\Edna Nascimento_Curso C#\Sessão 5\Exercicio de Fixação\introducao_c_sharp\introducao_c_sharp\bin\Debug\netcoreapp2.1\introducao_c_sharp.pdb
+C:\Users\Daniel\Desktop\Edna Nascimento_Curso C#\Sessão 5\Exercicio de Fixação\introducao_c_sharp\introducao_c_sharp\obj\Debug\netcoreapp2.1\introducao_c_sharp.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Edna Nascimento_Curso C#\Sessão 5\Exercicio de Fixação\introducao_c_sharp\introducao_c_sharp\obj\Debug\netcoreapp2.1\introducao_c_sharp.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Edna Nascimento_Curso C#\Sessão 5\Exercicio de Fixação\introducao_c_sharp\introducao_c_sharp\obj\Debug\netcoreapp2.1\introducao_c_sharp.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Edna Nascimento_Curso C#\Sessão 5\Exercicio de Fixação\introducao_c_sharp\introducao_c_sharp\obj\Debug\netcoreapp2.1\introducao_c_sharp.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Edna Nascimento_Curso C#\Sessão 5\Exercicio de Fixação\introducao_c_sharp\introducao_c_sharp\obj\Debug\netcoreapp2.1\introducao_c_sharp.dll
+C:\Users\Daniel\Desktop\Edna Nascimento_Curso C#\Sessão 5\Exercicio de Fixação\introducao_c_sharp\introducao_c_sharp\obj\Debug\netcoreapp2.1\introducao_c_sharp.pdb
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão1\introducao_c_sharp\introducao_c_sharp\bin\Debug\netcoreapp2.1\introducao_c_sharp.deps.json
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão1\introducao_c_sharp\introducao_c_sharp\bin\Debug\netcoreapp2.1\introducao_c_sharp.runtimeconfig.json
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão1\introducao_c_sharp\introducao_c_sharp\bin\Debug\netcoreapp2.1\introducao_c_sharp.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão1\introducao_c_sharp\introducao_c_sharp\bin\Debug\netcoreapp2.1\introducao_c_sharp.dll
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão1\introducao_c_sharp\introducao_c_sharp\bin\Debug\netcoreapp2.1\introducao_c_sharp.pdb
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão1\introducao_c_sharp\introducao_c_sharp\obj\Debug\netcoreapp2.1\introducao_c_sharp.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão1\introducao_c_sharp\introducao_c_sharp\obj\Debug\netcoreapp2.1\introducao_c_sharp.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão1\introducao_c_sharp\introducao_c_sharp\obj\Debug\netcoreapp2.1\introducao_c_sharp.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão1\introducao_c_sharp\introducao_c_sharp\obj\Debug\netcoreapp2.1\introducao_c_sharp.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão1\introducao_c_sharp\introducao_c_sharp\obj\Debug\netcoreapp2.1\introducao_c_sharp.dll
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão1\introducao_c_sharp\introducao_c_sharp\obj\Debug\netcoreapp2.1\introducao_c_sharp.pdb

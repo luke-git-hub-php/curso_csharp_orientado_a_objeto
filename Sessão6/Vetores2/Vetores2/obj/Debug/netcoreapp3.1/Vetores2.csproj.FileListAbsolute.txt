@@ -1,0 +1,10 @@
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\Vetores2\Vetores2\bin\Debug\netcoreapp3.1\Vetores2.exe
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\Vetores2\Vetores2\bin\Debug\netcoreapp3.1\Vetores2.deps.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\Vetores2\Vetores2\bin\Debug\netcoreapp3.1\Vetores2.runtimeconfig.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\Vetores2\Vetores2\bin\Debug\netcoreapp3.1\Vetores2.runtimeconfig.dev.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\Vetores2\Vetores2\bin\Debug\netcoreapp3.1\Vetores2.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\Vetores2\Vetores2\bin\Debug\netcoreapp3.1\Vetores2.pdb
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\Vetores2\Vetores2\obj\Debug\netcoreapp3.1\Vetores2.AssemblyInfoInputs.cache
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\Vetores2\Vetores2\obj\Debug\netcoreapp3.1\Vetores2.AssemblyInfo.cs
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\Vetores2\Vetores2\obj\Debug\netcoreapp3.1\Vetores2.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\Vetores2\Vetores2\obj\Debug\netcoreapp3.1\Vetores2.pdb

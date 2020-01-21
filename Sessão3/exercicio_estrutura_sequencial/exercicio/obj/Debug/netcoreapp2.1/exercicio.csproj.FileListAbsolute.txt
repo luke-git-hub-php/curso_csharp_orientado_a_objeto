@@ -1,0 +1,11 @@
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_sequencial\exercicio\bin\Debug\netcoreapp2.1\exercicio.deps.json
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_sequencial\exercicio\bin\Debug\netcoreapp2.1\exercicio.runtimeconfig.json
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_sequencial\exercicio\bin\Debug\netcoreapp2.1\exercicio.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_sequencial\exercicio\bin\Debug\netcoreapp2.1\exercicio.dll
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_sequencial\exercicio\bin\Debug\netcoreapp2.1\exercicio.pdb
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_sequencial\exercicio\obj\Debug\netcoreapp2.1\exercicio.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_sequencial\exercicio\obj\Debug\netcoreapp2.1\exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_sequencial\exercicio\obj\Debug\netcoreapp2.1\exercicio.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_sequencial\exercicio\obj\Debug\netcoreapp2.1\exercicio.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_sequencial\exercicio\obj\Debug\netcoreapp2.1\exercicio.dll
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_sequencial\exercicio\obj\Debug\netcoreapp2.1\exercicio.pdb

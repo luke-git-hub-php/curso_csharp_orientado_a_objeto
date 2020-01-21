@@ -1,0 +1,11 @@
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\switch_case\switch_case\bin\Debug\netcoreapp3.1\switch_case.exe
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\switch_case\switch_case\bin\Debug\netcoreapp3.1\switch_case.deps.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\switch_case\switch_case\bin\Debug\netcoreapp3.1\switch_case.runtimeconfig.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\switch_case\switch_case\bin\Debug\netcoreapp3.1\switch_case.runtimeconfig.dev.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\switch_case\switch_case\bin\Debug\netcoreapp3.1\switch_case.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\switch_case\switch_case\bin\Debug\netcoreapp3.1\switch_case.pdb
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\switch_case\switch_case\obj\Debug\netcoreapp3.1\switch_case.AssemblyInfoInputs.cache
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\switch_case\switch_case\obj\Debug\netcoreapp3.1\switch_case.AssemblyInfo.cs
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\switch_case\switch_case\obj\Debug\netcoreapp3.1\switch_case.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\switch_case\switch_case\obj\Debug\netcoreapp3.1\switch_case.pdb
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\switch_case\switch_case\obj\Debug\netcoreapp3.1\switch_case.csprojAssemblyReference.cache

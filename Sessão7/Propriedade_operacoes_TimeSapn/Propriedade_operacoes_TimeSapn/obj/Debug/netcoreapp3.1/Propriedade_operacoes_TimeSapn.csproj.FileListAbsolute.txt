@@ -1,0 +1,10 @@
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\Propriedade_operacoes_TimeSapn\Propriedade_operacoes_TimeSapn\bin\Debug\netcoreapp3.1\Propriedade_operacoes_TimeSapn.exe
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\Propriedade_operacoes_TimeSapn\Propriedade_operacoes_TimeSapn\bin\Debug\netcoreapp3.1\Propriedade_operacoes_TimeSapn.deps.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\Propriedade_operacoes_TimeSapn\Propriedade_operacoes_TimeSapn\bin\Debug\netcoreapp3.1\Propriedade_operacoes_TimeSapn.runtimeconfig.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\Propriedade_operacoes_TimeSapn\Propriedade_operacoes_TimeSapn\bin\Debug\netcoreapp3.1\Propriedade_operacoes_TimeSapn.runtimeconfig.dev.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\Propriedade_operacoes_TimeSapn\Propriedade_operacoes_TimeSapn\bin\Debug\netcoreapp3.1\Propriedade_operacoes_TimeSapn.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\Propriedade_operacoes_TimeSapn\Propriedade_operacoes_TimeSapn\bin\Debug\netcoreapp3.1\Propriedade_operacoes_TimeSapn.pdb
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\Propriedade_operacoes_TimeSapn\Propriedade_operacoes_TimeSapn\obj\Debug\netcoreapp3.1\Propriedade_operacoes_TimeSapn.AssemblyInfoInputs.cache
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\Propriedade_operacoes_TimeSapn\Propriedade_operacoes_TimeSapn\obj\Debug\netcoreapp3.1\Propriedade_operacoes_TimeSapn.AssemblyInfo.cs
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\Propriedade_operacoes_TimeSapn\Propriedade_operacoes_TimeSapn\obj\Debug\netcoreapp3.1\Propriedade_operacoes_TimeSapn.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\Propriedade_operacoes_TimeSapn\Propriedade_operacoes_TimeSapn\obj\Debug\netcoreapp3.1\Propriedade_operacoes_TimeSapn.pdb

@@ -1,0 +1,10 @@
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\params_ref_e_out\params ref_e_out\bin\Debug\netcoreapp3.1\params ref_e_out.exe
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\params_ref_e_out\params ref_e_out\bin\Debug\netcoreapp3.1\params ref_e_out.deps.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\params_ref_e_out\params ref_e_out\bin\Debug\netcoreapp3.1\params ref_e_out.runtimeconfig.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\params_ref_e_out\params ref_e_out\bin\Debug\netcoreapp3.1\params ref_e_out.runtimeconfig.dev.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\params_ref_e_out\params ref_e_out\bin\Debug\netcoreapp3.1\params ref_e_out.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\params_ref_e_out\params ref_e_out\bin\Debug\netcoreapp3.1\params ref_e_out.pdb
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\params_ref_e_out\params ref_e_out\obj\Debug\netcoreapp3.1\params ref_e_out.AssemblyInfoInputs.cache
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\params_ref_e_out\params ref_e_out\obj\Debug\netcoreapp3.1\params ref_e_out.AssemblyInfo.cs
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\params_ref_e_out\params ref_e_out\obj\Debug\netcoreapp3.1\params ref_e_out.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\params_ref_e_out\params ref_e_out\obj\Debug\netcoreapp3.1\params ref_e_out.pdb

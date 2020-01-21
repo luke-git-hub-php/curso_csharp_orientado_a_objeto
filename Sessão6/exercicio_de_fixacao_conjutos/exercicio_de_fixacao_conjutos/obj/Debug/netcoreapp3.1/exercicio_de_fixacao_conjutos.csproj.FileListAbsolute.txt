@@ -1,0 +1,10 @@
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\exercicio_de_fixacao_conjutos\exercicio_de_fixacao_conjutos\bin\Debug\netcoreapp3.1\exercicio_de_fixacao_conjutos.exe
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\exercicio_de_fixacao_conjutos\exercicio_de_fixacao_conjutos\bin\Debug\netcoreapp3.1\exercicio_de_fixacao_conjutos.deps.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\exercicio_de_fixacao_conjutos\exercicio_de_fixacao_conjutos\bin\Debug\netcoreapp3.1\exercicio_de_fixacao_conjutos.runtimeconfig.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\exercicio_de_fixacao_conjutos\exercicio_de_fixacao_conjutos\bin\Debug\netcoreapp3.1\exercicio_de_fixacao_conjutos.runtimeconfig.dev.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\exercicio_de_fixacao_conjutos\exercicio_de_fixacao_conjutos\bin\Debug\netcoreapp3.1\exercicio_de_fixacao_conjutos.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\exercicio_de_fixacao_conjutos\exercicio_de_fixacao_conjutos\bin\Debug\netcoreapp3.1\exercicio_de_fixacao_conjutos.pdb
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\exercicio_de_fixacao_conjutos\exercicio_de_fixacao_conjutos\obj\Debug\netcoreapp3.1\exercicio_de_fixacao_conjutos.AssemblyInfoInputs.cache
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\exercicio_de_fixacao_conjutos\exercicio_de_fixacao_conjutos\obj\Debug\netcoreapp3.1\exercicio_de_fixacao_conjutos.AssemblyInfo.cs
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\exercicio_de_fixacao_conjutos\exercicio_de_fixacao_conjutos\obj\Debug\netcoreapp3.1\exercicio_de_fixacao_conjutos.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\exercicio_de_fixacao_conjutos\exercicio_de_fixacao_conjutos\obj\Debug\netcoreapp3.1\exercicio_de_fixacao_conjutos.pdb

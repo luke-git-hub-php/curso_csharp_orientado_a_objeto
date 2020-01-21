@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio_fixacao_list", "exercicio_fixacao_list.csproj", "{AF8CD6FA-2C76-46E5-BCFD-5E2897D27F6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF8CD6FA-2C76-46E5-BCFD-5E2897D27F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF8CD6FA-2C76-46E5-BCFD-5E2897D27F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF8CD6FA-2C76-46E5-BCFD-5E2897D27F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF8CD6FA-2C76-46E5-BCFD-5E2897D27F6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2692FDA8-16A9-448F-BC48-A4825C7A1266}
+	EndGlobalSection
+EndGlobal

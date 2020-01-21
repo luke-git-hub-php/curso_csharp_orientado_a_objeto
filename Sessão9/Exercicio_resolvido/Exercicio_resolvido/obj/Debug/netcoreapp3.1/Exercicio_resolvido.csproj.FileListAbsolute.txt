@@ -1,0 +1,11 @@
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão9\Exercicio_resolvido\Exercicio_resolvido\bin\Debug\netcoreapp3.1\Exercicio_resolvido.exe
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão9\Exercicio_resolvido\Exercicio_resolvido\bin\Debug\netcoreapp3.1\Exercicio_resolvido.deps.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão9\Exercicio_resolvido\Exercicio_resolvido\bin\Debug\netcoreapp3.1\Exercicio_resolvido.runtimeconfig.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão9\Exercicio_resolvido\Exercicio_resolvido\bin\Debug\netcoreapp3.1\Exercicio_resolvido.runtimeconfig.dev.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão9\Exercicio_resolvido\Exercicio_resolvido\bin\Debug\netcoreapp3.1\Exercicio_resolvido.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão9\Exercicio_resolvido\Exercicio_resolvido\bin\Debug\netcoreapp3.1\Exercicio_resolvido.pdb
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão9\Exercicio_resolvido\Exercicio_resolvido\obj\Debug\netcoreapp3.1\Exercicio_resolvido.csprojAssemblyReference.cache
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão9\Exercicio_resolvido\Exercicio_resolvido\obj\Debug\netcoreapp3.1\Exercicio_resolvido.AssemblyInfoInputs.cache
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão9\Exercicio_resolvido\Exercicio_resolvido\obj\Debug\netcoreapp3.1\Exercicio_resolvido.AssemblyInfo.cs
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão9\Exercicio_resolvido\Exercicio_resolvido\obj\Debug\netcoreapp3.1\Exercicio_resolvido.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão9\Exercicio_resolvido\Exercicio_resolvido\obj\Debug\netcoreapp3.1\Exercicio_resolvido.pdb

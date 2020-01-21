@@ -1,0 +1,10 @@
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_while\estrutura_while\bin\Debug\netcoreapp3.1\estrutura_while.exe
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_while\estrutura_while\bin\Debug\netcoreapp3.1\estrutura_while.deps.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_while\estrutura_while\bin\Debug\netcoreapp3.1\estrutura_while.runtimeconfig.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_while\estrutura_while\bin\Debug\netcoreapp3.1\estrutura_while.runtimeconfig.dev.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_while\estrutura_while\bin\Debug\netcoreapp3.1\estrutura_while.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_while\estrutura_while\bin\Debug\netcoreapp3.1\estrutura_while.pdb
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_while\estrutura_while\obj\Debug\netcoreapp3.1\estrutura_while.AssemblyInfoInputs.cache
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_while\estrutura_while\obj\Debug\netcoreapp3.1\estrutura_while.AssemblyInfo.cs
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_while\estrutura_while\obj\Debug\netcoreapp3.1\estrutura_while.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\exercicio_estrutura_while\estrutura_while\obj\Debug\netcoreapp3.1\estrutura_while.pdb

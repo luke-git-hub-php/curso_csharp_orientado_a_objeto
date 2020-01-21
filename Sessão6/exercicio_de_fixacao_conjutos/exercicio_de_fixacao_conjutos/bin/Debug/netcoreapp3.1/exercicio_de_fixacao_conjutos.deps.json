@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "exercicio_de_fixacao_conjutos/1.0.0": {
+        "runtime": {
+          "exercicio_de_fixacao_conjutos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercicio_de_fixacao_conjutos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

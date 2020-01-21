@@ -1,0 +1,24 @@
+﻿{
+  "Application": {
+    "IP": "127.0.0.1",
+    "Port": 44369
+  },
+  "Database": {
+    "Host": "127.0.0.1",
+    "DBName": "NaniWeb",
+    "Username": "Mysql",
+    "Password": "1234567"
+  },
+  "Web": {
+    "SiteName": "NaniWeb",
+    "SiteAddress": "http://localhost:44369",
+    "EmailAddress": "john@example.com"
+  },
+  "Email": {
+    "Enabled": false,
+    "SmtpServer": "127.0.0.1",
+    "SmtpServerPort" : 0,
+    "SmtpServerUser": "",
+    "SmtpServerPassword": ""
+  }
+}

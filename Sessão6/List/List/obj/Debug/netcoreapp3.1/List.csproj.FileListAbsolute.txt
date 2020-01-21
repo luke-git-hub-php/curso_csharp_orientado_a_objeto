@@ -1,0 +1,11 @@
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\List\List\bin\Debug\netcoreapp3.1\List.exe
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\List\List\bin\Debug\netcoreapp3.1\List.deps.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\List\List\bin\Debug\netcoreapp3.1\List.runtimeconfig.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\List\List\bin\Debug\netcoreapp3.1\List.runtimeconfig.dev.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\List\List\bin\Debug\netcoreapp3.1\List.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\List\List\bin\Debug\netcoreapp3.1\List.pdb
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\List\List\obj\Debug\netcoreapp3.1\List.AssemblyInfoInputs.cache
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\List\List\obj\Debug\netcoreapp3.1\List.AssemblyInfo.cs
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\List\List\obj\Debug\netcoreapp3.1\List.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\List\List\obj\Debug\netcoreapp3.1\List.pdb
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\List\List\obj\Debug\netcoreapp3.1\List.csprojAssemblyReference.cache

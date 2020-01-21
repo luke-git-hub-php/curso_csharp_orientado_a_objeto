@@ -1,0 +1,11 @@
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão3\entrada_de_dados_c#\entrada_de_dados\bin\Debug\netcoreapp2.1\entrada_de_dados.deps.json
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão3\entrada_de_dados_c#\entrada_de_dados\bin\Debug\netcoreapp2.1\entrada_de_dados.runtimeconfig.json
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão3\entrada_de_dados_c#\entrada_de_dados\bin\Debug\netcoreapp2.1\entrada_de_dados.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão3\entrada_de_dados_c#\entrada_de_dados\bin\Debug\netcoreapp2.1\entrada_de_dados.dll
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão3\entrada_de_dados_c#\entrada_de_dados\bin\Debug\netcoreapp2.1\entrada_de_dados.pdb
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão3\entrada_de_dados_c#\entrada_de_dados\obj\Debug\netcoreapp2.1\entrada_de_dados.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão3\entrada_de_dados_c#\entrada_de_dados\obj\Debug\netcoreapp2.1\entrada_de_dados.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão3\entrada_de_dados_c#\entrada_de_dados\obj\Debug\netcoreapp2.1\entrada_de_dados.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão3\entrada_de_dados_c#\entrada_de_dados\obj\Debug\netcoreapp2.1\entrada_de_dados.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão3\entrada_de_dados_c#\entrada_de_dados\obj\Debug\netcoreapp2.1\entrada_de_dados.dll
+C:\Users\Daniel\Desktop\Lucas_Vieira_Curso_c#\Sessão3\entrada_de_dados_c#\entrada_de_dados\obj\Debug\netcoreapp2.1\entrada_de_dados.pdb

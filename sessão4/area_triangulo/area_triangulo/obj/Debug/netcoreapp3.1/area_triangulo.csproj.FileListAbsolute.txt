@@ -1,0 +1,10 @@
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\sessão4\area_triangulo\area_triangulo\obj\Debug\netcoreapp3.1\area_triangulo.AssemblyInfoInputs.cache
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\sessão4\area_triangulo\area_triangulo\obj\Debug\netcoreapp3.1\area_triangulo.AssemblyInfo.cs
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\sessão4\area_triangulo\area_triangulo\bin\Debug\netcoreapp3.1\area_triangulo.exe
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\sessão4\area_triangulo\area_triangulo\bin\Debug\netcoreapp3.1\area_triangulo.deps.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\sessão4\area_triangulo\area_triangulo\bin\Debug\netcoreapp3.1\area_triangulo.runtimeconfig.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\sessão4\area_triangulo\area_triangulo\bin\Debug\netcoreapp3.1\area_triangulo.runtimeconfig.dev.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\sessão4\area_triangulo\area_triangulo\bin\Debug\netcoreapp3.1\area_triangulo.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\sessão4\area_triangulo\area_triangulo\bin\Debug\netcoreapp3.1\area_triangulo.pdb
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\sessão4\area_triangulo\area_triangulo\obj\Debug\netcoreapp3.1\area_triangulo.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\sessão4\area_triangulo\area_triangulo\obj\Debug\netcoreapp3.1\area_triangulo.pdb

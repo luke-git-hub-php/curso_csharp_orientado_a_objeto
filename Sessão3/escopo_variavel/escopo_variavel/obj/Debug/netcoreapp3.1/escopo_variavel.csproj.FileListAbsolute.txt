@@ -1,0 +1,10 @@
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\escopo_variavel\escopo_variavel\bin\Debug\netcoreapp3.1\escopo_variavel.exe
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\escopo_variavel\escopo_variavel\bin\Debug\netcoreapp3.1\escopo_variavel.deps.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\escopo_variavel\escopo_variavel\bin\Debug\netcoreapp3.1\escopo_variavel.runtimeconfig.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\escopo_variavel\escopo_variavel\bin\Debug\netcoreapp3.1\escopo_variavel.runtimeconfig.dev.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\escopo_variavel\escopo_variavel\bin\Debug\netcoreapp3.1\escopo_variavel.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\escopo_variavel\escopo_variavel\bin\Debug\netcoreapp3.1\escopo_variavel.pdb
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\escopo_variavel\escopo_variavel\obj\Debug\netcoreapp3.1\escopo_variavel.AssemblyInfoInputs.cache
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\escopo_variavel\escopo_variavel\obj\Debug\netcoreapp3.1\escopo_variavel.AssemblyInfo.cs
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\escopo_variavel\escopo_variavel\obj\Debug\netcoreapp3.1\escopo_variavel.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão3\escopo_variavel\escopo_variavel\obj\Debug\netcoreapp3.1\escopo_variavel.pdb

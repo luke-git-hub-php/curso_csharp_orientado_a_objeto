@@ -1,0 +1,14 @@
+﻿.bg-image {
+    background-image: url(/static/themes/default/assets/images/background.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+.no-border {
+    border-width: 0 !important;
+}
+
+.no-border-radius {
+    border-radius: 0 !important;
+}

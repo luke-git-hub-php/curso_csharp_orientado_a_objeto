@@ -1,0 +1,10 @@
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\TimeSpan\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpan.exe
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\TimeSpan\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpan.deps.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\TimeSpan\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpan.runtimeconfig.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\TimeSpan\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpan.runtimeconfig.dev.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\TimeSpan\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpan.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\TimeSpan\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpan.pdb
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\TimeSpan\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.AssemblyInfoInputs.cache
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\TimeSpan\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.AssemblyInfo.cs
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\TimeSpan\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão7\TimeSpan\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.pdb

@@ -1,0 +1,72 @@
+﻿@inject IConfiguration Configuration
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <partial name="_StandardHeaders"></partial>
+    <script>
+    $(document).ready(function() {
+        $("#sidebar").sidebar( {
+          context: $("#sidebar-context")
+        }).sidebar("attach events", "#sidebar-activator");
+    });
+    </script>
+    @await RenderSectionAsync("HeaderSection", false)
+</head>
+<body>
+<div class="ui top attached inverted menu no-border-radius">
+    <a class="item" href="@(Configuration.GetValue<string>("Web:SiteAddress"))">
+        <img src="/static/themes/default/assets/images/logo.png"/>
+    </a>
+    <a id="sidebar-activator" class="item"><i class="sidebar icon"></i>Menu</a>
+    <div class="menu right">
+        <a class="item" href="@Url.Action("SignOut","Authentication")"><i class="sign-out icon"></i>Sign out</a>
+    </div>
+</div>
+<div id="sidebar-context" class="ui bottom attached segment pushable no-border-radius no-border">
+    <div id="sidebar" class="ui uncover inverted left vertical menu sidebar">
+        <div class="item">
+            <div class="header"><i class="book icon"></i>Comics</div>
+            <div class="menu">
+                <a id="add-comic-chapter" class="item">Add Chapter</a>
+                <a id="add-comic" class="item">Add Comic</a>
+                <a id="comic-list" class="item">Comic List</a>
+            </div>
+        </div>
+        <div class="item">
+            <div class="header"><i class="book icon"></i>Novels</div>
+            <div class="menu">
+                <a id="add-novel-chapter" class="item">Add Chapter</a>
+                <a id="add-novel" class="item">Add Novel</a>
+                <a id="novel-list" class="item">Novel List</a>
+            </div>
+        </div>
+        <div class="item">
+            <div class="header"><i class="folder open icon"></i>Resources</div>
+            <div class="menu">
+                <a id="add-resource" class="item">Add Resource</a>
+                <a id="resource-list" class="item">Resource List</a>
+            </div>
+        </div>
+        <div class="item">
+            <div class="header"><i class="external square alternate icon"></i>Links</div>
+            <div class="menu">
+                <a id="add-link" class="item">Add Link</a>
+                <a id="link-list" class="item">Link List</a>
+            </div>
+        </div>
+        <div class="item">
+            <div class="header"><i class="user icon"></i>Users</div>
+            <div class="menu">
+                <a id="me-user" class="item" href="@Url.Action("YourProfile", "User")">Your Profile</a>
+                <a id="add-user" class="item" href="@Url.Action("AddUser", "User")">Add User</a>
+                <a id="user-list" class="item" href="@Url.Action("UserList", "User")">User List</a>
+            </div>
+        </div>
+    </div>
+    <div class="pusher">
+        @RenderBody()
+    </div>
+</div>
+</body>
+</html>

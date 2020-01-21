@@ -1,0 +1,11 @@
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão5\conta_bancaria\Conta_bancaria\obj\Debug\netcoreapp3.1\Conta_bancaria.csprojAssemblyReference.cache
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão5\conta_bancaria\Conta_bancaria\obj\Debug\netcoreapp3.1\Conta_bancaria.AssemblyInfoInputs.cache
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão5\conta_bancaria\Conta_bancaria\obj\Debug\netcoreapp3.1\Conta_bancaria.AssemblyInfo.cs
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão5\conta_bancaria\Conta_bancaria\bin\Debug\netcoreapp3.1\Conta_bancaria.exe
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão5\conta_bancaria\Conta_bancaria\bin\Debug\netcoreapp3.1\Conta_bancaria.deps.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão5\conta_bancaria\Conta_bancaria\bin\Debug\netcoreapp3.1\Conta_bancaria.runtimeconfig.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão5\conta_bancaria\Conta_bancaria\bin\Debug\netcoreapp3.1\Conta_bancaria.runtimeconfig.dev.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão5\conta_bancaria\Conta_bancaria\bin\Debug\netcoreapp3.1\Conta_bancaria.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão5\conta_bancaria\Conta_bancaria\bin\Debug\netcoreapp3.1\Conta_bancaria.pdb
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão5\conta_bancaria\Conta_bancaria\obj\Debug\netcoreapp3.1\Conta_bancaria.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão5\conta_bancaria\Conta_bancaria\obj\Debug\netcoreapp3.1\Conta_bancaria.pdb

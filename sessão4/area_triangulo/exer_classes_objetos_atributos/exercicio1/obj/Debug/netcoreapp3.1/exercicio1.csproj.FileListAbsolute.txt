@@ -1,0 +1,10 @@
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\sessão4\area_triangulo\exer_classes_objetos_atributos\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.exe
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\sessão4\area_triangulo\exer_classes_objetos_atributos\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.deps.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\sessão4\area_triangulo\exer_classes_objetos_atributos\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.runtimeconfig.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\sessão4\area_triangulo\exer_classes_objetos_atributos\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.runtimeconfig.dev.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\sessão4\area_triangulo\exer_classes_objetos_atributos\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\sessão4\area_triangulo\exer_classes_objetos_atributos\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.pdb
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\sessão4\area_triangulo\exer_classes_objetos_atributos\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.AssemblyInfoInputs.cache
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\sessão4\area_triangulo\exer_classes_objetos_atributos\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.AssemblyInfo.cs
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\sessão4\area_triangulo\exer_classes_objetos_atributos\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\sessão4\area_triangulo\exer_classes_objetos_atributos\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.pdb

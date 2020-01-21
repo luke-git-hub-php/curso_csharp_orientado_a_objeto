@@ -1,0 +1,114 @@
+﻿@inject IConfiguration Configuration
+
+@{
+    Layout = null;
+    ViewData["Title"] = "Sign In";
+    var errors = TempData["Errors"] as string[];
+    var successMessage = TempData["SuccessMessage"] as string;
+    var originPath = (string) ViewData["OriginPath"];
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <partial name="_StandardHeaders"></partial>
+    <style type="text/css">
+    body > .grid {
+        height: 100%;
+    }
+        
+    .image {
+        margin-top: -100px;
+    }
+    
+    .column {
+        max-width: 450px;
+    }
+  </style>
+    <script>
+    $(document).ready(function() {
+      $("#sign-in-form").form({
+      fields: {
+        email: {
+          identifier  : "email",
+          rules: [{
+            type   : "empty",
+            prompt : "Please enter your e-mail"
+          },
+          {
+            type   : "email",
+            prompt : "Please enter a valid e-mail"
+          }]},
+        password: {
+          identifier  : "password",
+          rules: [{
+            type   : "empty",
+            prompt : "Please enter your password"
+          },
+          {
+            type   : "length[8]",
+            prompt : "Your password must be at least 8 characters"
+          }]}
+      }});
+    });
+  </script>
+</head>
+<body class="bg-image">
+<div class="ui middle aligned center aligned grid">
+    <div class="column">
+        <h2 class="ui image header">
+            <img src="/static/themes/default/assets/images/icon.png" class="image">
+            <div class="content">Sign in to your account</div>
+        </h2>
+        <form id="sign-in-form" class="ui large form @(errors?.Length > 0 ? "error" : "success")" method="post" action="@Url.Action("SignIn")" novalidate>
+            <div class="ui stacked segment">
+                <div class="field">
+                    <div class="ui left icon input">
+                        <i class="user icon"></i>
+                        <input type="text" name="email" placeholder="E-mail address">
+                    </div>
+                </div>
+                <div class="field">
+                    <div class="ui left icon input">
+                        <i class="lock icon"></i>
+                        <input type="password" name="password" placeholder="Password">
+                    </div>
+                </div>
+                
+                @if (string.IsNullOrWhiteSpace(originPath))
+                {
+                    <input type="hidden" name="originPath" value="@originPath"/>
+                }
+                
+                <button class="ui fluid large black submit button" type="submit">Login</button>
+            </div>
+            @if (!string.IsNullOrWhiteSpace(successMessage))
+            {
+                <div class="ui success message">
+                    <ul class="list">
+                        <li>@successMessage</li>
+                    </ul>
+                </div>
+            }
+            <div class="ui error message">
+                @if (errors?.Length > 0)
+                {
+                    <ul class="list">
+                        @foreach (var error in errors)
+                        {
+                            <li>@error</li>
+                        }
+                    </ul>
+                }
+            </div>
+        </form>
+        @if (Configuration.GetValue<bool>("Email:Enabled"))
+        {
+            <div class="ui message">
+                Forgot your password? <a href="@Url.Action("ResetPassword")">Reset It.</a>
+            </div>
+        }
+    </div>
+</div>
+</body>
+</html>

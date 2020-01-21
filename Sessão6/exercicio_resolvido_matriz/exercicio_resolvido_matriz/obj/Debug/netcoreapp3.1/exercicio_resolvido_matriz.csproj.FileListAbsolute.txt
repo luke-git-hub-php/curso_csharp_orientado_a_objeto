@@ -1,0 +1,10 @@
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\exercicio_resolvido_matriz\exercicio_resolvido_matriz\bin\Debug\netcoreapp3.1\exercicio_resolvido_matriz.exe
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\exercicio_resolvido_matriz\exercicio_resolvido_matriz\bin\Debug\netcoreapp3.1\exercicio_resolvido_matriz.deps.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\exercicio_resolvido_matriz\exercicio_resolvido_matriz\bin\Debug\netcoreapp3.1\exercicio_resolvido_matriz.runtimeconfig.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\exercicio_resolvido_matriz\exercicio_resolvido_matriz\bin\Debug\netcoreapp3.1\exercicio_resolvido_matriz.runtimeconfig.dev.json
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\exercicio_resolvido_matriz\exercicio_resolvido_matriz\bin\Debug\netcoreapp3.1\exercicio_resolvido_matriz.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\exercicio_resolvido_matriz\exercicio_resolvido_matriz\bin\Debug\netcoreapp3.1\exercicio_resolvido_matriz.pdb
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\exercicio_resolvido_matriz\exercicio_resolvido_matriz\obj\Debug\netcoreapp3.1\exercicio_resolvido_matriz.AssemblyInfoInputs.cache
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\exercicio_resolvido_matriz\exercicio_resolvido_matriz\obj\Debug\netcoreapp3.1\exercicio_resolvido_matriz.AssemblyInfo.cs
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\exercicio_resolvido_matriz\exercicio_resolvido_matriz\obj\Debug\netcoreapp3.1\exercicio_resolvido_matriz.dll
+C:\Users\Fitbank\Desktop\Lucas_Vieira_Curso_c#\Sessão6\exercicio_resolvido_matriz\exercicio_resolvido_matriz\obj\Debug\netcoreapp3.1\exercicio_resolvido_matriz.pdb

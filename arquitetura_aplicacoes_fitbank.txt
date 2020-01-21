@@ -1,4 +1,0 @@
-Arquitetura utlizada com o WEB ASP MVC : View ou pageVeiw -> arqivo.js ->
- Controller ->  Métado ou Action -> TRA(Se tiver um métado com "BUS" é banco) -> DAO -> CRUD ou Procedures(Consulta SQL pronto)
-A aplicação sempre conversar com a API(Api de serviços, portal ou admin).
-Atalho no vs code f12 entrar no métado.
